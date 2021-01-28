@@ -49,7 +49,7 @@ Stats
 **Comments**
 
 The learning is really slow and, the algorithm can only learn if
-the system has already the parameters close to the optimal once.
+the system has already the parameters close to the optimal ones.
 Sometimes, if the system diverges and the oscillation cease,
  the algorithm can't learn anything. 
 
